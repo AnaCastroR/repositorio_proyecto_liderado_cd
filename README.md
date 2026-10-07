@@ -2,7 +2,6 @@
 
 <div align="center">
   
-# Netflix
 ### Proyecto liderado y ejecutado por un científico de datos
 
 </div>
@@ -13,12 +12,19 @@
 
 *Vicepresidenta de Ciencia y Algoritmos (VP of Science and Algorithms) en Netflix*
 
+Fue la responsable de liderar un gran cambio en la masiva plataforma de netflix que cambiaría la empresa de buena manera. Caitlyn se encargo de implementar la ciencia de datos en todo su esplendor para mejorar los números de netflix, una tarea grandísima y retadora para cualquier científico de datos. Demostrando una gran destreza, Caitlyn y su equipo pudieron lograr satisfactoriamente su meta, optimizaron Netflix como lo conocemos hoy en día. 
+
+Este grupo de personas logro este gran trabajo mediante varios modelos predictivos y algoritmos de análisis de datos, los cuales siendo alimentados por las gigantes bases de datos de netflix, pudieron mostrar al mundo lo efectiva que puede ser la ciencia de datos.
+
 
 ### Cómo Netflix utiliza los datos y el análisis
 
 <details>
   <summary>Motor de recomendaciones personalizadas</summary>
-  Contenido oculto que se despliega para mas informacion
+  Caitlyn logro implementar exitosamente modelos de machine learning en la plataforma de netflix, con el fin de mejorar su sistema de recomendaciones, sistema el cual estaba un tanto obsoleto debido a su falta de eficacia basada en el rating del usuario al producto que esta viendo el cliente al momento. 
+
+
+  Esto supuso una mejoría indiscutible en las recomendaciones de la plataforma, una muestra de esto es el aumento de la retención del usuario en las peliculas/series mostradas
 </details>  
 
 <details>
@@ -35,6 +41,8 @@
   <summary>Optimización de operaciones</summary>
   Netflix utiliza análisis de datos para optimizar todo, desde la experiencia del usuario en la aplicación hasta la logística de los rodajes. Por ejemplo, han desarrollado algoritmos para predecir el coste estimado de filmar en una ubicación en comparación con otra. También utilizan análisis de datos para aumentar la eficiencia de las actividades de rodaje y posproducción, como la edición, reduciendo los cuellos de botella y optimizando los flujos de trabajo.
 </details>  
+
+>https://www.kdd.org/kdd2016/speakers/view/caitlin-smallwood#:~:text=*%20Computational%20Social%20Science%3A%20Exciting%20Progress%20and,timing%20%2D%20impact%20Netflix's%20data%20science%20applications.
 
 >Gutierrez, S. (2014). Data scientists at work. Apress. https://doi.org/10.1007/978-1-4302-6599-3
 
