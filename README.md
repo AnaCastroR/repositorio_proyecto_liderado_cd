@@ -4,50 +4,17 @@
   
 # Netflix
 ### Proyecto liderado y ejecutado por un científico de datos
-### Ana Castro
 
 </div>
 
-![Foto1](IMG_0049.png)
+![Foto1](Instagram.png)
 
 **Caitlin Smallwood**
 
-*Cursiva*
-***Negrita y cursiva***
+*Vicepresidenta de Ciencia y Algoritmos (VP of Science and Algorithms) en Netflix*
 
-<pre>
-  Def hola():
-    print("hola")
-</pre>
 
->Gutierrez, S. (2014). Data scientists at work. Apress. https://doi.org/10.1007/978-1-4302-6599-3
-
->Mixson, E. (2025, 19 de marzo). Data science at Netflix: How advanced data & analytics helps Netflix generate billions. AI, Data & Analytics Network. https://www.aidataanalytics-network.com/data-science-ai/articles/data-science-at-netflix-how-advanced-data-analytics-helped-netflix-generate-billions
-
-- Lista
-- Otro
-  - Sub-elemento
- 
-1. Paso uno
-2. Paso dos
-3. ...
-   
-   3.1. Sub tres uno
-   
-   3.2. Sub tres dos
-
-- [ ] Tarea pendiente
-- [x] Tarea completa
-- [ ] Tarea pendiente
-
-|Nombre | Apellido |
-|------ | -------- |
-|Mariana|Monroy|
-|Santiago|Lopez|
-|Luna|Mesa|
-
-> [!WARNING]
-> A esto toca prestarle atencion.
+### Cómo Netflix utiliza los datos y el análisis
 
 <details>
   <summary>Motor de recomendaciones personalizadas</summary>
@@ -69,11 +36,7 @@
   Netflix utiliza análisis de datos para optimizar todo, desde la experiencia del usuario en la aplicación hasta la logística de los rodajes. Por ejemplo, han desarrollado algoritmos para predecir el coste estimado de filmar en una ubicación en comparación con otra. También utilizan análisis de datos para aumentar la eficiencia de las actividades de rodaje y posproducción, como la edición, reduciendo los cuellos de botella y optimizando los flujos de trabajo.
 </details>  
 
-La ecuacion de Eistein es $E = mc^2$. Esta ecuacion es muy famosa.
+>Gutierrez, S. (2014). Data scientists at work. Apress. https://doi.org/10.1007/978-1-4302-6599-3
 
-$$
-x = 2^4*y + 1
-$$
-
-![Foto1](imagen.jpg)
+>Mixson, E. (2025, 19 de marzo). Data science at Netflix: How advanced data & analytics helps Netflix generate billions. AI, Data & Analytics Network. https://www.aidataanalytics-network.com/data-science-ai/articles/data-science-at-netflix-how-advanced-data-analytics-helped-netflix-generate-billions
 
