@@ -42,9 +42,11 @@ Este grupo de personas logro este gran trabajo mediante varios modelos predictiv
   Netflix utiliza análisis de datos para optimizar todo, desde la experiencia del usuario en la aplicación hasta la logística de los rodajes. Por ejemplo, han desarrollado algoritmos para predecir el coste estimado de filmar en una ubicación en comparación con otra. También utilizan análisis de datos para aumentar la eficiencia de las actividades de rodaje y posproducción, como la edición, reduciendo los cuellos de botella y optimizando los flujos de trabajo.
 </details>  
 
->https://www.kdd.org/kdd2016/speakers/view/caitlin-smallwood#:~:text=*%20Computational%20Social%20Science%3A%20Exciting%20Progress%20and,timing%20%2D%20impact%20Netflix's%20data%20science%20applications.
+### Referencias
 
->Gutierrez, S. (2014). Data scientists at work. Apress. https://doi.org/10.1007/978-1-4302-6599-3
+> Gutierrez, S. (2014). *Data scientists at work.* Apress. https://doi.org/10.1007/978-1-4302-6599-3
 
->Mixson, E. (2025, 19 de marzo). Data science at Netflix: How advanced data & analytics helps Netflix generate billions. AI, Data & Analytics Network. https://www.aidataanalytics-network.com/data-science-ai/articles/data-science-at-netflix-how-advanced-data-analytics-helped-netflix-generate-billions
+> Mixson, E. (19 de marzo de 2025). Data science at Netflix: *How advanced data & analytics helps Netflix generate billions.* AI, Data & Analytics Network. https://www.aidataanalytics-network.com/data-science-ai/articles/data-science-at-netflix-how-advanced-data-analytics-helped-netflix-generate-billions
+
+> Smallwood, C. (2016). *Caitlin Smallwood.* KDD 2016. https://www.kdd.org/kdd2016/speakers/view/caitlin-smallwood
 
