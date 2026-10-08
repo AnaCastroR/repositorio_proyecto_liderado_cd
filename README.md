@@ -50,7 +50,7 @@ Este grupo de personas logro este gran trabajo mediante varios modelos predictiv
 |Al crear una cuenta, le pide al usuario elegir 3 títulos para que se adecue a sus gustos|Muestra directamente los mayores éxitos del catalogo|
 |Modifica las portadas de las películas según los gustos del usuario, logrando que llamen mas la atencion|Muestran el póster oficial del cine, en resumen, todos ven la misma portada|
 
->https://www.kdd.org/kdd2016/speakers/view/caitlin-smallwood#:~:text=*%20Computational%20Social%20Science%3A%20Exciting%20Progress%20and,timing%20%2D%20impact%20Netflix's%20data%20science%20applications.
+### Referencias
 
 > Gutierrez, S. (2014). *Data scientists at work.* Apress. https://doi.org/10.1007/978-1-4302-6599-3
 
