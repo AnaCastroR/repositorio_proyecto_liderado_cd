@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Proyecto liderado y ejecutado por un científico de datos
+# Proyecto liderado y ejecutado por un científico de datos
 
 </div>
 
@@ -41,6 +41,14 @@ Este grupo de personas logro este gran trabajo mediante varios modelos predictiv
   <summary>Optimización de operaciones</summary>
   Netflix utiliza análisis de datos para optimizar todo, desde la experiencia del usuario en la aplicación hasta la logística de los rodajes. Por ejemplo, han desarrollado algoritmos para predecir el coste estimado de filmar en una ubicación en comparación con otra. También utilizan análisis de datos para aumentar la eficiencia de las actividades de rodaje y posproducción, como la edición, reduciendo los cuellos de botella y optimizando los flujos de trabajo.
 </details>  
+
+### A continuacion una tabla comparativa para tener una mejor idea del trabajo hecho por caitlyn:
+
+|**Netflix**|**Otras plataformas**|
+|-----------|---------------------|
+|Utiliza microdatos que deja el usuario para mayor personalizacion|Se basa en lo que es mas popular al momento|
+|Al crear una cuenta, le pide al usuario elegir 3 títulos para que se adecue a sus gustos|Muestra directamente los mayores éxitos del catalogo|
+|Modifica las portadas de las películas según los gustos del usuario, logrando que llamen mas la atencion|Muestran el póster oficial del cine, en resumen, todos ven la misma portada|
 
 >https://www.kdd.org/kdd2016/speakers/view/caitlin-smallwood#:~:text=*%20Computational%20Social%20Science%3A%20Exciting%20Progress%20and,timing%20%2D%20impact%20Netflix's%20data%20science%20applications.
 
